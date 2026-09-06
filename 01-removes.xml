@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="platform/external/deqp-deps/glslang" />
+  <remove-project name="platform/external/mesa3d" />
+  <remove-project name="LineageOS/android_external_v4l2_codec2" />
+  <remove-project name="crdroidandroid/android_system_core" />
+  <remove-project name="crdroidandroid/android_vendor_crdroid" />
+  <remove-project name="crdroidandroid/android_hardware_interfaces" />
+</manifest>

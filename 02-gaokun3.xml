@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_external_deqp-deps_glslang" path="external/deqp-deps/glslang" remote="gaokun3" />
+  <project name="android_external_hexagonrpc" path="external/hexagonrpc" remote="gaokun3" />
+  <project name="android_external_mesa3d" path="external/mesa3d" remote="gaokun3" />
+  <project name="android_external_v4l2_codec2" path="external/v4l2_codec2" remote="gaokun3" />
+  <project name="android_system_core" path="system/core" remote="gaokun3" />
+  <project name="android_vendor_crdroid" path="vendor/lineage" remote="gaokun3" />
+  <project name="android_hardware_interfaces" path="hardware/interfaces" remote="gaokun3" />
+  <project name="android_device_huawei_gaokun3" path="device/huawei/gaokun3" remote="gaokun3" />
+  <project name="android_kernel_huawei_gaokun3" path="kernel/huawei/gaokun3" remote="gaokun3" revision="linux-rolling-stable" clone-depth="1" />
+  <project name="build_scripts" path="tools/gaokun" remote="gaokun3" />
+  <project name="device/linaro/dragonboard" path="device/linaro/dragonboard" remote="aosp" />
+  <project name="MindTheGapps/vendor_gapps" path="vendor/gapps" remote="mindthegapps" />
+</manifest>
